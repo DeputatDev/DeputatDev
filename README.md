@@ -1,4 +1,4 @@
-<img src="https://psv4.userapi.com/s/v1/d2/63vYCwa28z3Qc5xEnf5nhdKkblS7YIZrMOs2cei18v73uZAsfTn34rS8c0DtxtlbFYyvDvWz8uC1PWG7aAMTbdm7lHpKvHA4oGeZflj-D75evnxJoYJfhtdOttQZe3_fgGwsC3tWyKHZ/2027988.jpg" width="50%"/>
+<img src="https://psv4.userapi.com/s/v1/d2/63vYCwa28z3Qc5xEnf5nhdKkblS7YIZrMOs2cei18v73uZAsfTn34rS8c0DtxtlbFYyvDvWz8uC1PWG7aAMTbdm7lHpKvHA4oGeZflj-D75evnxJoYJfhtdOttQZe3_fgGwsC3tWyKHZ/2027988.jpg" width="50% align="center"/>
 
 
 <h1 align="center">Hello, I'm Ivan Zhegalin 
